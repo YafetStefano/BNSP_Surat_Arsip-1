@@ -22,15 +22,15 @@
                                 <div class="col-md-3">
                               <div class="image">
                                 <a style="cursor: pointer;" data-toggle="modal" data-target="#gantiFoto">
-                                    <img src="{{url('images/foto_saya.jpeg')}}" width="200px" height="100%" alt="User" />
+                                    <img src="{{url('images/1931710171.jpeg')}}" width="200px" height="100%" alt="User" />
                                 </a>
                             </div>
                          </div>
                          <div class="col-md-4">
-                                <h3>NIM : 1931710175</h3>
-                                <h3>NAMA : Umbu Michael FA</h3>
+                                <h3>NIM : 1931710171</h3>
+                                <h3>NAMA : Yafet Stefano</h3>
                                 <h3>KELAS : MI3A</h3>
-                                <h3>ABSEN : 24</h3>
+                                <h3>Tanggal : 29 September 2022</h3>
                          </div>
                      </div>
                         

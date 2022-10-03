@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Umbu Website</title>
+    <title>Arsip Website</title>
     <!-- Favicon-->
     {{-- <link rel="icon" href="{{url('favicon.ico')}}" type="image/x-icon"> --}}
 
@@ -95,7 +95,7 @@
             <div class="user-info">
                 <div class="image">
                     <a style="cursor: pointer;" data-toggle="modal" data-target="#gantiFoto">
-                        <img src="{{url('images/foto_saya.jpeg')}}" width="60" height="60" alt="User" />
+                        <img src="{{url('images/1931710171.jpeg')}}" width="60" height="60" alt="User" />
                     </a>
                 </div>
                 <div class="info-container">
